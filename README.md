@@ -4,23 +4,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z7ealth&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
 
-<div data-iframe-width="160" data-iframe-height="180" data-share-badge-id="65a7d6a2-d860-4449-ab27-8683dbdd7064" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="160" data-iframe-height="180" data-share-badge-id="ffc10822-173e-410c-b42b-18cabfa1c3cb" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="160" data-iframe-height="180" data-share-badge-id="6124e2c4-a983-4ada-b931-3b999d600896" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="160" data-iframe-height="180" data-share-badge-id="de6cb38d-e641-47ad-837b-eb908af3354a" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="160" data-iframe-height="180" data-share-badge-id="712abfa0-8e3e-44d5-8891-71a42d5cbf55" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="160" data-iframe-height="180" data-share-badge-id="ae65d8d4-e58b-407d-89e6-8eb890d35b60" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="160" data-iframe-height="180" data-share-badge-id="173e4b32-f3e1-42c5-a656-b7a2e6f45b37" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="160" data-iframe-height="180" data-share-badge-id="d5e0e4a6-a69b-4534-8670-5e6d3dd1da24" data-share-badge-host="https://www.credly.com"></div>
+[Verify my certifications](https://www.credly.com/users/z7ealth)
 
-<script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
-
-## Other Certifications
-
-| Certification | Issuer | Date Earned |
-|---------------|--------|-------------|
-| [AZ-104: Microsoft Azure Administrator](https://learn.microsoft.com/api/credentials/share/en-us/HectorSalinas-6432/E3F7A3C0E2A22A28?sharingId=7420DAE3D0C619F9) | Microsoft | 2024-05 |
-
+<img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="80" height="80">
+<img src="https://images.credly.com/images/3b5ebc68-d9af-4a55-bdc7-c8486ea8051f/converted20250813-30-dlhhn6.png" width="80" height="80">
+<img src="https://images.credly.com/size/340x340/images/56a9322c-5dff-4462-b0c0-14b9460696ae/image.png" width="80" height="80">
+<img src="https://images.credly.com/size/340x340/images/13b908d5-0c21-4502-a3c6-b2d9938e99af/image.png" width="80" height="80">
+<img src="https://images.credly.com/size/340x340/images/5287aa23-f179-46a9-9683-678077d3aa45/image.png" width="80" height="80">
+<img src="https://images.credly.com/size/340x340/images/a32a36b6-882e-4d17-9b21-77efa6f06e14/blob" width="80" height="80">
 
 ### Coding Algorithms
 
