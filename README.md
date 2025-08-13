@@ -13,7 +13,7 @@
 <img src="https://images.credly.com/size/340x340/images/a32a36b6-882e-4d17-9b21-77efa6f06e14/blob" width="80" height="80">
 </p>
 
-[Validate Certifications](https://www.credly.com/users/z7ealth)
+[Verify Certifications](https://www.credly.com/users/z7ealth)
 
 ### Coding Algorithms
 
